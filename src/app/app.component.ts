@@ -11,7 +11,7 @@ import { registerLocaleData } from '@angular/common/src/i18n/locale_data';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  nombre = "Fernando";
+  nombre = "Carlos";
 
   nombre2 = "carLos arIel eStevez rAMirez";
 
@@ -41,4 +41,5 @@ export class AppComponent {
 
   video = 'u3VFzuUiTGw';
 
+  activar = true;
 }
