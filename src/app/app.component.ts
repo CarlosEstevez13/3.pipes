@@ -13,6 +13,8 @@ import { registerLocaleData } from '@angular/common/src/i18n/locale_data';
 export class AppComponent {
   nombre = "Fernando";
 
+  nombre2 = "carLos arIel eStevez rAMirez";
+
   arreglo = [1,2,3,4,5,6,7,8,9,10];
 
   PI = Math.PI;
@@ -36,4 +38,6 @@ export class AppComponent {
   });
 
   fecha = new Date();
+
+
 }
